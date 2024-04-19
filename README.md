@@ -1,21 +1,43 @@
-### Hi there 👋
+🚀 Welcome to My Profile! 🚀
 
-I'm Azka Ikramullah, a passionate software engineer with a knack for machine learning and iOS development. Here's a glimpse into my journey:
+Hello there! I'm Azka Ikramullah, a dedicated Software Engineer specializing in Python AI Development, passionate about leveraging technology to drive innovation. Based in Islamabad, Pakistan, I thrive on tackling challenging problems and delivering impactful solutions that make a difference.
 
-🚀 **Currently:** I'm diving deep into iOS development and machine learning at Switch Communications, where I craft and launch user-centric iOS applications while integrating cutting-edge machine learning models to enhance user experiences.
+👩‍💻 Professional Journey:
 
-🎓 **Education:** I graduated with a Bachelor of Science in Information Technology from Air University, Islamabad, honing my skills in Python programming, machine learning, and data analytics.
+In my current role as a Python AI Developer at NineSol Technologies, I am at the forefront of developing cutting-edge AI solutions using Python. My responsibilities include designing and implementing AI algorithms, data preprocessing, and model evaluation. I am committed to pushing the boundaries of AI technology and contributing to the advancement of artificial intelligence in diverse applications.
 
-🔍 **Experience:** From collaborating on innovative projects like predicting stock prices and classifying cardiovascular diseases using machine learning to developing web-based applications for audio forensics, I've consistently pushed the boundaries of technology.
+Previously, I served as an iOS Developer at FitFlex, where I led the development of feature-rich iOS applications using Swift and Objective-C. I ensured adherence to Apple's guidelines while prioritizing seamless user experiences. Additionally, I spearheaded projects like a machine learning-based message classifier for messaging apps, showcasing my ability to integrate advanced technologies into practical solutions.
 
-🛠️ **Skills:** Proficient in Python, Swift, and SQL, I excel in data collection, processing, analysis, and visualization. My expertise extends to machine learning algorithms, data science techniques, and project management methodologies.
+🎓 Education and Training:
 
-🏆 **Certifications:** I hold Google Data Analytics and Advanced Data Analytics Certificates, empowering me to explore large datasets, build predictive models, and derive actionable insights.
+I hold a Bachelor of Science in Information Technology from Air University, Islamabad, where I acquired a solid foundation in machine learning, NLP programming, and project development.
 
-💡 **Projects:** Whether it's enhancing stock price prediction apps or developing PTSD predictors, I'm dedicated to leveraging technology for social impact and innovation.
+🛠️ Services Offered:
 
-🌟 **Honors:** Recognized for my expertise in data analytics and machine learning, I'm committed to continuous learning and growth in the ever-evolving tech landscape.
+✨ Python AI Development: Designing and implementing AI solutions using Python.
+✨ Machine Learning: Offering end-to-end solutions, from predictive modeling to data analysis.
+✨ Data Science: Expertise in data collection, preprocessing, analysis, and visualization.
+✨ Project Management: Bringing a structured approach to project planning and execution.
 
-Let's connect and collaborate on exciting projects! Feel free to reach out via [email](mailto:azkaikramullah496@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/azka-ikramullah/).
+🌐 Explore My Projects:
 
-Looking forward to building the future together! 🚀
+📈 LSTM & Random Forest Price Predictor
+🔍 ML for Cardiovascular Disease Prediction
+🧠 Textual Data Analysis for PTSD Forecast
+🩺 Breast Cancer Prediction with Machine Learning
+📚 Natural Language Queries for Databases
+
+🏆 Honors and Certifications:
+
+🔍 Google Advanced Data Analytics Certificate
+🚀 Google Data Analytics Certificate
+📝 Foundations of Project Management - Google
+🎖️ PMI Agile Certified Practitioner (PMI-ACP) - Simplilearn
+🤖 Introduction to Artificial Intelligence - Simplilearn
+
+💬 Let's Connect:
+
+I'm excited to continue making strides in AI development and collaborating on innovative projects. Feel free to connect with me to explore opportunities for collaboration and growth.
+
+🌟 Link to My Portfolio: Azka Ikramullah Portfolio
+
