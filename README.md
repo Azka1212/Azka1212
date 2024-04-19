@@ -15,24 +15,35 @@ I hold a Bachelor of Science in Information Technology from Air University, Isla
 🛠️ Services Offered:
 
 ✨ Python AI Development: Designing and implementing AI solutions using Python.
+
 ✨ Machine Learning: Offering end-to-end solutions, from predictive modeling to data analysis.
+
 ✨ Data Science: Expertise in data collection, preprocessing, analysis, and visualization.
+
 ✨ Project Management: Bringing a structured approach to project planning and execution.
 
 🌐 Explore My Projects:
 
 📈 LSTM & Random Forest Price Predictor
+
 🔍 ML for Cardiovascular Disease Prediction
+
 🧠 Textual Data Analysis for PTSD Forecast
+
 🩺 Breast Cancer Prediction with Machine Learning
+
 📚 Natural Language Queries for Databases
 
 🏆 Honors and Certifications:
 
 🔍 Google Advanced Data Analytics Certificate
+
 🚀 Google Data Analytics Certificate
+
 📝 Foundations of Project Management - Google
+
 🎖️ PMI Agile Certified Practitioner (PMI-ACP) - Simplilearn
+
 🤖 Introduction to Artificial Intelligence - Simplilearn
 
 💬 Let's Connect:
