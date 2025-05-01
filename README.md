@@ -46,7 +46,6 @@ I’m an AI-first innovator passionate about creating real-world impact through 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Andrew_Ng-yellowgreen?style=flat-square)
 
 ---
-
 ## 🚀 Featured Projects
 
 - 💬 **GPT-4 Medical Bot**  
@@ -69,6 +68,38 @@ I’m an AI-first innovator passionate about creating real-world impact through 
 
 - ✍️ **Creative Story Generator**  
   A GPT-powered narrative builder from short prompts
+
+- 🧾 **Chapter-wise Summarizer & Story Builder**  
+  Uses ChatGPT to generate adaptive summaries and personalized stories based on user interest
+
+- 💡 **Code Generator & Optimizer**  
+  An AI-powered tool that generates, refactors, and optimizes code snippets for multiple languages
+
+- 🐞 **Bug Detector Mobile App**  
+  On-device bug detection and suggestion system for developers, powered by a lightweight ML model
+
+- 🍽️ **RAG-based Restaurant Chatbot (US Market)**  
+  Retrieval-augmented chatbot for restaurant owners to interact with business data, generate reports, and analyze sales
+
+---
+
+## 🧪 Research Areas of Interest
+
+- 💰 **Fintech & Sustainability**  
+  AI-driven solutions for green finance, ESG tracking, and climate-resilient digital banking
+
+- 🌱 **Sustainable AI / AI for Sustainability**  
+  Energy-efficient models, carbon-aware ML training, and AI for environmental monitoring
+
+- 🧠 **LLMs + Reinforcement Learning**  
+  Synergizing language models with RL for reasoning, planning, and agentic behavior
+
+- 🔐 **Privacy & Security in AI**  
+  Differential privacy, federated learning, and secure ML pipeline design
+
+- 🎨 **Generative Modeling & Multimodal AI**  
+  Diffusion models, image-text transformers, and multi-sensor fusion techniques
+
 
 ---
 
