@@ -8,8 +8,9 @@
 <p align="center">
   <a href="mailto:azkaikramullah496@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/azka-ikramullah"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Generative_AI-%23f54291?style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Cloud_ML-AWS%20%7C%20GCP-blueviolet?style=for-the-badge"/></a>
+  <a href="https://devpost.com/azkaikramullah496"><img src="https://img.shields.io/badge/Devpost-Profile-lightblue?style=for-the-badge&logo=devpost&logoColor=black"/></a>
+  <a href="https://stackoverflow.com/users/18824165/azka-ikramullah"><img src="https://img.shields.io/badge/StackOverflow-Profile-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/azkaikramullah"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
 
 ---
@@ -94,11 +95,19 @@ I’m an AI-first innovator passionate about creating real-world impact through 
 
 ---
 
+## 🌐 More About Me
+
+- 💼 **Devpost Portfolio:** [devpost.com/azkaikramullah496](https://devpost.com/azkaikramullah496)
+- 💡 **Kaggle Competitions & Notebooks:** [kaggle.com/azkaikramullah](https://www.kaggle.com/azkaikramullah)
+- 💬 **Stack Overflow Contributions:** [stackoverflow.com/users/18824165](https://stackoverflow.com/users/18824165/azka-ikramullah)
+
+---
+
 ## 🤝 Let's Connect
 
 - 📩 **Email:** [azkaikramullah496@gmail.com](mailto:azkaikramullah496@gmail.com)  
-- 🌐 **LinkedIn:** [linkedin.com/in/azka-ikramullah](https://linkedin.com/in/azka-ikramullah)  
-- 🌟 **Portfolio:** [azka1212.github.io/Azka-Portfolio](https://azka1212.github.io/Azka-Portfolio)
+- 🔗 **LinkedIn:** [linkedin.com/in/azka-ikramullah](https://linkedin.com/in/azka-ikramullah)  
+- 🌟 **Portfolio Website:** [azka1212.github.io/Azka-Portfolio](https://azka1212.github.io/Azka-Portfolio)
 
 ---
 
